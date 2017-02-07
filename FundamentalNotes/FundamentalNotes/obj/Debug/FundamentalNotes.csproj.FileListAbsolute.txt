@@ -1,0 +1,6 @@
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\bin\Debug\FundamentalNotes.exe.config
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\bin\Debug\FundamentalNotes.exe
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\bin\Debug\FundamentalNotes.pdb
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\obj\Debug\FundamentalNotes.exe
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\obj\Debug\FundamentalNotes.pdb
+c:\users\dominik\documents\visual studio 2015\Projects\FundamentalNotes\FundamentalNotes\obj\Debug\FundamentalNotes.csprojResolveAssemblyReference.cache
